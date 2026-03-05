@@ -257,7 +257,7 @@ footer p {
 
 .hero-image img {
   width: 100%;
-  aspect-ratio: 3/4;
+  aspect-ratio: 1/1;
   object-fit: cover;
   display: block;
   filter: grayscale(20%);
@@ -398,7 +398,7 @@ footer p {
 
 .about-photo {
   width: 100%;
-  aspect-ratio: 3/4;
+  aspect-ratio: 1/1;
   object-fit: cover;
   display: block;
   margin-bottom: 1.5rem;
@@ -516,7 +516,7 @@ footer p {
 
 .project-thumb {
   width: 100%;
-  aspect-ratio: 16/9;
+  aspect-ratio: 23/10;
   object-fit: cover;
   display: block;
   margin-bottom: 1.4rem;
