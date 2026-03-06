@@ -516,8 +516,6 @@ footer p {
 
 .project-thumb {
   width: 100%;
-  aspect-ratio: 23/10;
-  object-fit: cover;
   display: block;
   margin-bottom: 1.4rem;
   filter: grayscale(10%);
